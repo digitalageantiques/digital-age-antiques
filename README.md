@@ -185,6 +185,7 @@ digital-age-antiques/
 ├── buying-checklists/
 ├── market-notes/
 └── images/
+```
 
 ---
 
