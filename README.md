@@ -1,6 +1,6 @@
-# 🧭 Page Title
+# 🧩 Value Signals
 
-**One clear sentence explaining what this section studies.**
+**A judgment framework for identifying future collectible value in real physical objects.**
 
 Created by **Xufen Tu**  
 Project: **Digital Age Antiques**
@@ -9,29 +9,25 @@ Project: **Digital Age Antiques**
 
 ## Core Observation
 
-Write 2–4 short paragraphs here.
+Old does not automatically mean valuable.
 
-The tone should be observational, calm, and human.
+A digital-age object becomes worth watching when it carries more than its original function.
 
-Do not over-explain.  
-Do not promise future value.  
-Do not sound like financial advice.
+It may hold a memory of how people lived, listened, communicated, played, worked, photographed, stored information, or entered digital life for the first time.
+
+This section defines the value signals used by **Digital Age Antiques**.
 
 ---
 
 ## Why This Matters
 
-Explain why this topic matters in the AI era.
+In the AI era, many images, styles, voices, and digital objects can be generated or copied quickly.
 
-Focus on:
+Real physical objects still carry material presence, visible time, human use, provenance, scarcity, and cultural memory.
 
-- real physical objects
-- cultural memory
-- human experience
-- provenance
-- scarcity
-- visible time
-- objects AI cannot fully copy
+A digital image can show an old object.
+
+But it cannot fully replace the original object itself.
 
 ---
 
@@ -47,25 +43,12 @@ Focus on:
 | Provenance | The origin, ownership, purchase history, or context can be explained. |
 | Display Value | The object can still create meaning in a home, studio, store, museum, or visual space. |
 | Story Value | The object tells a story beyond its original function. |
+| Buyer Demand | Collectors, fans, designers, creators, or ordinary people still care about this type of object. |
 | Human Judgment | Final value depends on context, timing, culture, condition, and interpretation. |
 
 ---
 
-## Examples
-
-Use this section for real object categories.
-
-- Example 1
-- Example 2
-- Example 3
-- Example 4
-- Example 5
-
----
-
 ## Human Judgment
-
-This section should explain the deeper judgment.
 
 The important question is not only:
 
@@ -74,6 +57,34 @@ The important question is not only:
 The stronger question is:
 
 **Does this object still carry meaning when digital abundance becomes normal?**
+
+A sealed object without cultural memory may not matter.
+
+A famous object in poor condition may have limited value.
+
+A rare object with no buyer demand may remain hard to sell.
+
+A common object with strong nostalgia, complete packaging, and rising cultural interest may become more important later.
+
+This is why **Digital Age Antiques** treats future value as a human judgment problem, not only a pricing problem.
+
+---
+
+## Basic Formula
+
+```text
+Digital Age Antique Value =
+Cultural Memory
++ Physical Authenticity
++ Scarcity
++ Condition
++ Completeness
++ Provenance
++ Display Value
++ Story Value
++ Buyer Demand
++ Human Judgment
+```
 
 ---
 
@@ -94,6 +105,15 @@ An object may have weaker future value when it is:
 ---
 
 ## Boundary
+
+This section is for observation, research, education, and value-judgment documentation.
+
+It does not provide financial advice, investment advice, appraisal advice, legal advice, authentication advice, or guaranteed resale predictions.
+
+Future value is uncertain.
+
+© Xufen Tu. All rights reserved.
+Boundary
 
 This section is for observation, research, education, and value-judgment documentation.
 
