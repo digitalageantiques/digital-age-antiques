@@ -185,3 +185,14 @@ digital-age-antiques/
 ├── buying-checklists/
 ├── market-notes/
 └── images/
+
+---
+Usage Notice
+
+This repository is for research, observation, education, and value-judgment documentation.
+
+It does not provide financial, investment, legal, appraisal, or authentication advice.
+
+Future value is not guaranteed.
+
+© Xufen Tu. All rights reserved.
