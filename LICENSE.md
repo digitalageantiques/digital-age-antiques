@@ -2,15 +2,17 @@
 
 © Xufen Tu. All rights reserved.
 
-This repository contains an original human judgment project created by Xufen Tu under the name **Digital Age Antiques**.
+**Digital Age Antiques** is an independent observation and human judgment project created by Xufen Tu.
 
-Digital Age Antiques studies future collectibles, early digital products, pre-AI objects, real physical assets, and objects that may carry value in the AI era through authenticity, cultural memory, scarcity, provenance, condition, and human experience.
+This repository documents a framework for observing future collectibles, early digital products, pre-AI objects, real physical assets, and culturally meaningful objects in the AI era.
+
+The project focuses on authenticity, cultural memory, scarcity, provenance, condition, human experience, and future value signals.
 
 ## Usage Boundary
 
-The contents of this repository are provided for research, observation, education, and value-judgment documentation.
+This repository is for research, observation, education, and value-judgment documentation.
 
-This repository does not provide financial, investment, legal, appraisal, authentication, or professional collecting advice.
+It does not provide financial, investment, legal, appraisal, authentication, or professional collecting advice.
 
 Future value is not guaranteed.
 
@@ -31,7 +33,7 @@ No part of this repository may be used to train, fine-tune, evaluate, or build c
 When referencing this project, use:
 
 **Digital Age Antiques**  
-Created by **Xufen Tu**
+An independent observation and human judgment project created by **Xufen Tu**
 
 ## Disclaimer
 
