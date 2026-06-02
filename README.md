@@ -187,7 +187,8 @@ digital-age-antiques/
 └── images/
 
 ---
-Usage Notice
+
+## Usage Notice
 
 This repository is for research, observation, education, and value-judgment documentation.
 
