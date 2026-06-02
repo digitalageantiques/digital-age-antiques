@@ -189,6 +189,14 @@ digital-age-antiques/
 
 ---
 
+## Commercial Direction
+
+This project may later support educational guides, observation templates, value-signal checklists, case cards, and research-based content products.
+
+It does not provide certified appraisal, investment advice, guaranteed resale predictions, or professional authentication services.
+
+---
+
 ## Usage Notice
 
 This repository is for research, observation, education, and value-judgment documentation.
