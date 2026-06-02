@@ -264,3 +264,14 @@ Cultural Memory
 + Story Value
 + Buyer Demand
 + Human Judgment
+```
+---
+## Boundary
+
+This framework does not guarantee future value.
+
+It is not financial advice, investment advice, appraisal advice, or authentication advice.
+
+It is a structured observation method for thinking about real objects, future collectibles, early digital products, and physical assets in the AI era.
+
+© Xufen Tu. All rights reserved.
