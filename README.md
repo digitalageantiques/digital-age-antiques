@@ -196,9 +196,8 @@ Current case areas include:
 - boxed software
 - pop culture objects
 
----
 
-## Project Structure
+---
 
 ```text
 digital-age-antiques/
@@ -209,6 +208,8 @@ digital-age-antiques/
 ├── what-will-be-valuable-after-ai/
 ├── early-digital-products/
 ├── collectible-value-signals/
+├── models/
+├── taxonomy/
 ├── how-to-identify-real-antiques/
 ├── future-collectibles/
 ├── ai-era-physical-assets/
@@ -216,8 +217,11 @@ digital-age-antiques/
 ├── case-studies/
 ├── buying-checklists/
 ├── market-notes/
+├── metadata/
 └── images/
+    └── diagrams/
 ```
+
 
 ---
 
