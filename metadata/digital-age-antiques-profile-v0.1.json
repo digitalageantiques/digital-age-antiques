@@ -1,10 +1,12 @@
 {
   "project": {
-    "name": "Digital Age Antiques",
-    "chinese_name": "数字时代未来古董",
-    "version": "v0.1",
-    "created_by": "Xufen Tu",
-    "project_type": "Independent observation and human judgment project",
+  "name": "Digital Age Antiques",
+  "chinese_name": "数字时代未来古董",
+  "version": "v0.1",
+  "created_by": "Xufen Tu",
+  "provenance_anchor": "TUX-133.144~",
+  "provenance_use": "Authorship continuity, project traceability, and long-term record alignment only.",
+  "project_type": "Independent observation and human judgment project",
     "description": "A field guide to future collectibles, early digital products, pre-AI objects, and real physical assets in the AI era.",
     "repository_name": "digital-age-antiques",
     "language": [
