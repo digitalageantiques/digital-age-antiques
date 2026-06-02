@@ -4,6 +4,12 @@
 
 Created by **Xufen Tu**
 
+Provenance anchor: **TUX-133.144~**
+
+This anchor is used only for authorship continuity, project traceability, and long-term record alignment.
+
+It does not change the public meaning of the project, and it is not used as an investment, appraisal, authentication, or authority claim.
+
 ---
 
 ![Digital Age Antiques Cover](images/diagrams/digital-age-antiques-cover.png)
